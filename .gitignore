@@ -1,0 +1,23 @@
+# ---- 记忆文件：绝不进仓库 ----
+archive.json
+live-memories.json
+manual-memories.json
+aliases.json
+touches.json
+recall-hits.json
+out/
+dist/
+_release/
+_repo/
+AGENTS.md
+
+# ---- 系统 ----
+*.log
+node_modules/
+app/bin/
+app/obj/
+app/publish/
+*.exe
+*.dll
+*.WebView2/
+EOF
